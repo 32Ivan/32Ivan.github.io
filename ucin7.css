@@ -36,9 +36,8 @@ header.startup h1 {
 }
 
 .btn {
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  
+  position:center;
   font-weight: 700;
   text-transform: uppercase;
   border-radius: 300px;
